@@ -20,7 +20,7 @@ public class MainActivity extends Activity {
  
         mapView.getController().setZoom(10);
         mapView.getController().setCenter(new GeoPoint(39.461078, 2.856445));
- 
+ //comment
         setContentView(mapView);
     }
 
